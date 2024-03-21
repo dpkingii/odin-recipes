@@ -1,0 +1,38 @@
+*{
+    background-color: #e3d5ca;
+}
+
+.card{
+    width: 30vw;
+    background-color: white;
+    margin: 2em auto;
+    padding: 1em;
+}
+
+.title{
+    margin-top: 0;
+    text-align: center;
+    color: #6c584c;
+    font-weight: bolder;
+    background-color: white;
+    font-size: 3vw;
+}
+
+.recipes{
+    text-align: center;
+    padding: 16px 8px;
+    list-style-type: none;
+}
+ul li{
+    margin-bottom: 1.5vw;
+    color: #6c584c;
+    font-size: 1.6vw;
+}
+
+.recipe-name{
+    text-align: left;
+}
+
+.recipe-body{
+    color: #6c584c;
+}

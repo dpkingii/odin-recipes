@@ -1,5 +1,6 @@
 *{
     background-color: #e3d5ca;
+    box-sizing: border-box;
 }
 
 .card{
@@ -29,6 +30,18 @@ ul li{
     font-size: 1.6vw;
 }
 
+.button-container {
+    text-align: center;
+    padding: 8px;
+    font-size: 1.3em;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 8px 24px;
+    font-size: 1.5em;
+}
+
 .recipe-name{
     text-align: left;
 }
@@ -36,3 +49,4 @@ ul li{
 .recipe-body{
     color: #6c584c;
 }
+
